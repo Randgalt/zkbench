@@ -1,4 +1,4 @@
-package zktest.iterator;
+package zkbench.iterator;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

@@ -1,4 +1,4 @@
-package zktest.cache;
+package zkbench.cache;
 
 public abstract class CachingBenchmarkBase
 {

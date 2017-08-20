@@ -1,4 +1,4 @@
-package zktest.cache;
+package zkbench.cache;
 
 import com.google.common.base.MoreObjects;
 import org.apache.curator.framework.CuratorFramework;

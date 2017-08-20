@@ -1,7 +1,7 @@
-package zktest.cache.tree;
+package zkbench.cache.tree;
 
 import org.openjdk.jmh.annotations.Benchmark;
-import zktest.cache.CachingBenchmarkBase;
+import zkbench.cache.CachingBenchmarkBase;
 
 public class TreeCachingBenchmark extends CachingBenchmarkBase
 {

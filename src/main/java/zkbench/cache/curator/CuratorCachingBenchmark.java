@@ -1,7 +1,7 @@
-package zktest.cache.curator;
+package zkbench.cache.curator;
 
 import org.openjdk.jmh.annotations.Benchmark;
-import zktest.cache.CachingBenchmarkBase;
+import zkbench.cache.CachingBenchmarkBase;
 
 public class CuratorCachingBenchmark extends CachingBenchmarkBase
 {

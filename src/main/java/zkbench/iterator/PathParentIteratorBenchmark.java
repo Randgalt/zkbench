@@ -1,4 +1,4 @@
-package zktest.iterator;
+package zkbench.iterator;
 
 import org.openjdk.jmh.annotations.Benchmark;
 import org.openjdk.jmh.annotations.Scope;

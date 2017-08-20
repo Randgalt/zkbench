@@ -1,12 +1,12 @@
-package zktest.cache.curator;
+package zkbench.cache.curator;
 
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.recipes.watch.CacheEvent;
 import org.apache.curator.framework.recipes.watch.CacheListener;
 import org.apache.curator.framework.recipes.watch.CuratorCache;
 import org.apache.curator.framework.recipes.watch.CuratorCacheBuilder;
-import zktest.cache.CacheWorker;
-import zktest.cache.CachingState;
+import zkbench.cache.CacheWorker;
+import zkbench.cache.CachingState;
 import java.io.IOException;
 import java.util.List;
 import java.util.Map;
